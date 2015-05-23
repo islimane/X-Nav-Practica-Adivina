@@ -1,0 +1,45 @@
+ 	{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "coordinate",
+        "coordinates": [-16.51374, -151.75668]
+      },
+      "properties": {
+        "Name": "Bora Bora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "coordinate",
+        "coordinates": [19.57668, -155.70758]
+      },
+      "properties": {
+        "Name": "Hawai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "coordinate",
+        "coordinates": [19.29313, -81.29348]
+      },
+      "properties": {
+        "Name": "Cayman Islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "coordinate",
+        "coordinates": [-51.73012, -58.75766]
+      },
+      "properties": {
+        "Name": "Falkland Islands"
+      }
+    }
+  ]
+}

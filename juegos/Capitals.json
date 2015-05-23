@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "coordinate",
+        "coordinates": [40.41678, -3.70379]
+      },
+      "properties": {
+        "Name": "Madrid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "coordinate",
+        "coordinates": [48.85661, 2.35222]
+      },
+      "properties": {
+        "Name": "París"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "coordinate",
+        "coordinates": [33.97159, -6.84981]
+      },
+      "properties": {
+        "Name": "Rabat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "coordinate",
+        "coordinates": [40.71278, -74.00594]
+      },
+      "properties": {
+        "Name": "Nueva York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "coordinate",
+        "coordinates": [51.50735, -0.12776]
+      },
+      "properties": {
+        "Name": "Londres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "coordinate",
+        "coordinates": [31.89804, 35.20427]
+      },
+      "properties": {
+        "Name": "Ramallah"
+      }
+    }
+  ]
+}
