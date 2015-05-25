@@ -9,6 +9,7 @@ La práctica consiste en la creación de una aplicación HTML5 que permita jugar
 Detalles del enunciado en el programa de la asignatura:
 
 Nombre del alumno: Ismael Slimane Zubillaga
+
 User en linux: islimane
 
 
