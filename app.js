@@ -91,7 +91,7 @@ function beginGame(game){
 	exitGame = false;
 	$("#buttons").empty();
 	$("#img").empty();
-	$("<button class='display'>Stop</button>").appendTo("#buttons").attr("id", "stop");
+	$("<button class='display btn'>Stop</button>").appendTo("#buttons").attr("id", "stop");
 	document.getElementById("text").innerHTML = "This place is...";
 	document.getElementById("score").innerHTML = 0;
 	console.log("INCREASE: currentState: " + currentState);
@@ -260,7 +260,7 @@ function finishGame(){
 	if(imgInterval!=null)
 		clearInterval(imgInterval);
 	$("#scoreBoard").empty();
-	document.getElementById("buttons").innerHTML = "<button id='start' class='display'>Start</button>";
+	document.getElementById("buttons").innerHTML = "<button id='start' class='display btn'>Start</button>";
 	document.getElementById("text").innerHTML = "Try another game";
 	document.getElementById("img").innerHTML = "Your score was: " + score;
 	resetGameVars();
